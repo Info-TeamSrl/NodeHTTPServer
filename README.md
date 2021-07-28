@@ -1,10 +1,10 @@
 # NodeHTTPServer
 
->> cd *percorsoFile
+> cd *percorsoFile
+>
+> node server.js
 
->> node server.js
 
-
-Da Browser
+### Da Browser
 
 URL     http://localhost:8000/
